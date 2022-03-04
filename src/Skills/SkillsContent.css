@@ -1,0 +1,17 @@
+.content-container {
+    margin-top: 1rem;
+}
+
+.txt-title {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.txt-subtitle {
+    font-style: italic;
+}
+
+.logo-skill {
+    width: 4vh;
+    height: 4vh;
+}
