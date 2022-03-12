@@ -1,0 +1,36 @@
+.profile-pic {
+    background-image: url("../../public/profile-pic.jpg");
+    background-size: cover;
+
+    width: 35vh;
+    height: 35vh;
+    margin: auto auto;
+    margin-top: 5vh;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px;
+}
+
+.txt-name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    color: #021533;
+}
+
+.txt-subtitle-work {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    color: #323639;
+}
+
+.txt-email {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.btn-icon-linkedin {
+    background-image: url("../../public/linked-in-logo.png");
+}

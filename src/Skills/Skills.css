@@ -26,31 +26,27 @@
 
 .body-2 {
     margin: 3rem;  
-    /* background-color: blue;  */
 }
 
-.txt-work-title {
-  font-family: Verdana, Geneva, sans-serif;
-  font-size: 30px;
-  font-weight: bold;
-  letter-spacing: 2px;
-  color: #021533;
+.txt-resume-title {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #021533;
 }
 
 hr {
-  color: #021533;
-  height: 10rem;
+    color: #021533;
+    height: 10rem;
 }
 
 .txt-content-title {
-  font-family: Verdana, Geneva, sans-serif;
-  font-size: 30px;
-  font-weight: 900;
-  letter-spacing: -2px;
-  color: #08aeac;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    letter-spacing: -2px;
+    color: #08aeac;
 }
 
-.txt-welcome-banner {
-    font-size: 20px;
-    font-style: italic;
-}
+
